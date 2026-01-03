@@ -16,20 +16,6 @@ Cloud: AWS (S3, EC2 basics)
 Data analysis: Pandas, NumPy, Matplotlib, Scikit-Learn
 Tools: Jupyter Notebook, VS Code, Git, Google Colab
 
-## Projects(Machine Learning)
-
-⦁	Movie Rating Prediction (Regression)
-Predicting the user movie ratings using ML regression models.
-
-⦁	Customer Segmentation (Clustering)
-Applying K-Means & PCA for segmentation on e-commerce data.
-
-⦁	CNN for Image Classification
-Built a CNN achieving 92% accuracy on Fashion-MNIST dataset.
-
-⦁	NLP Chatbot
-Rule-based + ML chatbot with Flask deployment.
-
 ## Contact 
 
 📧 mail-id: karumanchideviprasanth@gmail.com
