@@ -1,16 +1,39 @@
-## Hi there 👋
+##About Me
 
-<!--
-**prasanth006/prasanth006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I am Devi Prasanth Karumanchi 
 
-Here are some ideas to get you started:
+Graduate Student in Computer Science and engineering | UNT
+Machine Learning Enthusiast
+Passionate about building real-world AI solutions 
+Always eager to learn, collaborate, and work on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Skills & Interests
+
+Programming: Python, SQL, Java
+Machine Learning: Regression, Classification, Clustering, Feature Engineering
+Deep Learning: CNNs, RNNs, TensorFlow/Keras, PyTorch (beginner)
+Cloud: AWS (S3, EC2 basics)
+Data analysis: Pandas, NumPy, Matplotlib, Scikit-Learn
+Tools: Jupyter Notebook, VS Code, Git, Google Colab
+
+##Projects(Machine Learning)
+
+⦁	Movie Rating Prediction (Regression)
+Predicting the user movie ratings using ML regression models.
+
+⦁	Customer Segmentation (Clustering)
+Applying K-Means & PCA for segmentation on e-commerce data.
+
+⦁	CNN for Image Classification
+Built a CNN achieving 92% accuracy on Fashion-MNIST dataset.
+
+⦁	NLP Chatbot
+Rule-based + ML chatbot with Flask deployment.
+
+##Contact 
+
+📧 mail-id: karumanchideviprasanth@gmail.com
+🔗 LinkedIn: 
+🐙 GitHub: github.com/prasanth006
+
+
