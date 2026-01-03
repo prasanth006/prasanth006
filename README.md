@@ -33,7 +33,7 @@ Rule-based + ML chatbot with Flask deployment.
 ## Contact 
 
 📧 mail-id: karumanchideviprasanth@gmail.com
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/deviprasanthkarumanchi/
 🐙 GitHub: github.com/prasanth006
 
 
