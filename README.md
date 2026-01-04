@@ -9,8 +9,8 @@ Always eager to learn, collaborate, and work on projects
 
 ## Skills & Interests
 
-Programming: Python, SQL, Java
-Machine Learning: Regression, Classification, Clustering, Feature Engineering
+* Programming: Python, SQL, Java
+* Machine Learning: Regression, Classification, Clustering, Feature Engineering
 Deep Learning: CNNs, RNNs, TensorFlow/Keras, PyTorch (beginner)
 Cloud: AWS (S3, EC2 basics)
 Data analysis: Pandas, NumPy, Matplotlib, Scikit-Learn
