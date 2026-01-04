@@ -2,7 +2,7 @@
 
 Hi I am Devi Prasanth Karumanchi 
 
-Graduate Student in Computer Science and engineering UNT |
+Graduate Student in Computer Science and engineering UNT  
 Machine Learning Enthusiast
 Passionate about building real-world AI solutions 
 Always eager to learn, collaborate, and work on projects
